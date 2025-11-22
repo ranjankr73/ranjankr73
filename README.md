@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjankr73&label=Profile%20views&color=0e75b6&style=flat" alt="ranjankr73" /> </p>
 
-- 🔭 I’m currently working on [Note Taking App](https://github.com/ranjankr73/note-taking-app)
+- 🔭 I’m currently working on [VideoTube Backend](https://github.com/ranjankr73/note-taking-app)
 
-- 🌱 I’m currently learning **Java, Springboot**
+- 🌱 I’m currently learning **Production Grade Backend with JavaScript**
 
 - 📫 How to reach me **ranjan73.me@gmail.com**
 

@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ranjan73.me@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JUgEnCSPyz779h9K1c0aWOOpSprWSMa5/view?usp=sharing](https://drive.google.com/file/d/1JUgEnCSPyz779h9K1c0aWOOpSprWSMa5/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JUgEnCSPyz779h9K1c0aWOOpSprWSMa5/view?usp=sharing](https://drive.google.com/file/d/1db43V3oIxyW0DGMqV3x5vNUHqbqs8urU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

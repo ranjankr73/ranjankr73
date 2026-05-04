@@ -1,28 +1,108 @@
-<h1 align="center">Hi 👋, I'm Ranjan Kumar</h1>
-<h3 align="center">🚀 Software Developer | Problem Solver | Tech Enthusiast </h3>
-<p align="center">Welcome to my GitHub profile! I love building scalable applications, solving algorithmic challenges, and contributing to open-source projects.</p>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjankr73&label=Profile%20views&color=0e75b6&style=flat" alt="ranjankr73" /> </p>
+# Hey, I'm Ranjan Kumar 👋
 
-- 🔭 I’m currently working on [GharSe](https://github.com/ranjankr73/GharSe)
+### 🚀 Full Stack Developer · MERN Stack · Problem Solver
 
-- 🌱 I’m currently learning **Production Grade Backend with JavaScript**
+*Building scalable applications and solving hard problems — one commit at a time.*
 
-- 📫 How to reach me **ranjan73.me@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-06070D?style=for-the-badge&logo=vercel&logoColor=00E5A0)](https://github.com/ranjankr73)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjankr73)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ranjan73me)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ranjan73)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ranjankr73)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1db43V3oIxyW0DGMqV3x5vNUHqbqs8urU/view?usp=sharing](https://drive.google.com/file/d/1filf0cU6YVsTqWCHvgpC5qJIDvuHAT-q/view?usp=drive_link)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ranjan73me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjan73me" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranjankr73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjankr73" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ranjankr73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ranjankr73" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ranjan73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ranjan73" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjankr73&show_icons=true&locale=en&layout=compact" alt="ranjankr73" /></p>
+- 🔭 Currently building **[GharSe](https://github.com/ranjankr73/GharSe)** — a full-stack MERN application
+- 🌱 Deepening expertise in **Production-Grade Backend with JavaScript**
+- 🧠 Exploring **Redis, Docker, distributed systems & scalable architecture**
+- 💼 **Actively seeking** Full Stack / Backend Developer roles
+- 🧩 I enjoy competitive programming on LeetCode & HackerRank
+- 📫 Reach me at **ranjan73.me@gmail.com**
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1filf0cU6YVsTqWCHvgpC5qJIDvuHAT-q/view?usp=drive_link)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjankr73&show_icons=true&locale=en" alt="ranjankr73" /></p> -->
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 [GharSe](https://github.com/ranjankr73/GharSe)
+> A full-stack platform built with the MERN stack — currently in active development.
+
+Focused on scalable architecture, clean REST API design, and production-grade deployment strategies using Docker and modern tooling.
+
+`React` `Node.js` `Express.js` `MongoDB` `Docker`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ranjankr73&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" /> -->
+
+<img src="https://streak-stats.demolab.com/?user=ranjankr73&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjankr73&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" /> -->
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm **actively looking for new opportunities** — if you have a role, a project, or just want to talk tech, I'd love to hear from you!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/ranjan73.me@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjan73.me@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=ranjankr73&color=00E5A0&style=flat-square&label=Profile+Views)
+
+</div>

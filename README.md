@@ -18,11 +18,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **[GharSe](https://github.com/ranjankr73/GharSe)** — a full-stack MERN application
+- 🔭 Currently building **[StrideDo](https://github.com/ranjankr73/stridedo-monorepo)** — a full-stack MERN application
 - 🌱 Deepening expertise in **Production-Grade Backend with JavaScript**
 - 🧠 Exploring **Redis, Docker, distributed systems & scalable architecture**
 - 💼 **Actively seeking** Full Stack / Backend Developer roles
-- 🧩 I enjoy competitive programming on LeetCode & HackerRank
+- 🧩 I enjoy building products
 - 📫 Reach me at **ranjan73.me@gmail.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1filf0cU6YVsTqWCHvgpC5qJIDvuHAT-q/view?usp=drive_link)
 
